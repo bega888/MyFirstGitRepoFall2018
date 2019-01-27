@@ -5,6 +5,8 @@ public class Calculator {
         int c;
         int d;
 
+        int f;
+
 
 
 
