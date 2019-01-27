@@ -3,6 +3,7 @@ public class Calculator {
         int a;
         int b;
         int c;
+        ing d;
 
 
 
