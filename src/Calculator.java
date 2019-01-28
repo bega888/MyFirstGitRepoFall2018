@@ -3,8 +3,7 @@ public class Calculator {
         int a;
         int b;
         int c;
-        int d;
-
+        int d=a+b;
         int f;
 
 
